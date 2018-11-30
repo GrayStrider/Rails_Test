@@ -1,5 +1,5 @@
 {
-  "name": "Rails_Test",
+  "name": "rails_test",
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5"

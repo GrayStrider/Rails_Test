@@ -5,6 +5,9 @@
 //= require_self
 //= require_tree ./channels
 
+import * as ActionCable
+    from "../../../../../../Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-5.2.1.1/lib/assets/compiled/action_cable";
+
 (function () {
     this.App || (this.App = {});
 
